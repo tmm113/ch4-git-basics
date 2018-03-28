@@ -5,8 +5,3 @@ based on [Chapter 4](https://info201.github.io/git-basics.html)
 of the [Technical Foundations of Informatics](https://info201.github.io/) course book.
 
 Solutions can be found in the `solution` branch.
-
-- eggs
-- bacon
-- orange slices
-- milk
